@@ -30,9 +30,9 @@
                                      |   Kotlin: 2y                    |
                                      |   Kotlin Multi: 2y              |
                                      |   JavaScript: 1y                |
-                                     |   React: 0.5y                   |
-                                     |   Network: 15y                  |
-                                     |   Server-side: 15y              |
+                                     |   React: 6m                     |
+                                     |   Network: 10y                  |
+                                     |   Server-side: 10y              |
                                      |                           [🌿]  |
                                      +---------------------------------+
 ```
