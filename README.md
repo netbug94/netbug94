@@ -25,8 +25,8 @@
                                      |    +------------------------+    ||
                                      |                                 //
                                      |   Name: Ian                     |
-                                     |   Type: Mexican/Canadian        |
-                                     |   Max-HP: 30y                   |
+                                     |   Type: Mexico/Canada           |
+                                     |   HP: 30y                       |
                                      |   Kotlin: 2y                    |
                                      |   Kotlin Multi: 2y              |
                                      |   JavaScript: 1y                |
