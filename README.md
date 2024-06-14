@@ -12,7 +12,7 @@
                                  ^^^|  |^^^      ^^^^^|  |^^^^^      ^^^|  |^^^    
 ```
 
-                                                 [Netizen94](https://github.com/netizen94)
+[Netizen94](https://github.com/netizen94)
 
 ```
                                       +---------------------------------+
