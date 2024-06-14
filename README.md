@@ -22,7 +22,7 @@
                                       |    +------------------------+    ||
                                       |                                  //
                                       |   Name: Ian                      |
-                                      |   Type: Mexican/Canadian         |
+                                      |   Type: Mexico/Canada            |
                                       |   Max-HP: 30y                    |
                                       |   Kotlin: 2y                     |
                                       |   Kotlin Multi: 2y               |
@@ -30,6 +30,6 @@
                                       |   React: 0.5y                    |
                                       |   Network: 15y                   |
                                       |   Server-side: 15y               |
-                                      |                            [  ]  |
+                                      |                            [🌟]  |
                                       +----------------------------------+
 ```
