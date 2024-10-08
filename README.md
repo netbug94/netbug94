@@ -25,14 +25,14 @@
                                      |    +------------------------+    ||
                                      |                                 //
                                      |   Name: Ian                     |
-                                     |   Type: Mexico/Canada           |
+                                     |   Location: Mexico              |
                                      |   HP: 30y                       |
                                      |   Kotlin: 2y                    |
                                      |   Kotlin Multi: 2y              |
-                                     |   JavaScript: 1y                |
-                                     |   React: 1y                     |
-                                     |   Network: 10y                  |
-                                     |   Server-side: 10y              |
+                                     |   Jetpack Compose 2y            |
+                                     |   HTML/CSS: 5y                  |
+                                     |   JavaScript: 2y                |
+                                     |   Vite + React: 1y              |
                                      |                           [🌿]  |
                                      +---------------------------------+
 ```
