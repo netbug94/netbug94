@@ -25,7 +25,7 @@
                                      |    +------------------------+    ||
                                      |                                 //
                                      |   Name: Ian                     |
-                                     |   Location: Mexico              |
+                                     |   Location: México              |
                                      |   HP: 30y                       |
                                      |   Kotlin: 2y                    |
                                      |   Kotlin Multi: 2y              |
