@@ -24,15 +24,15 @@
                                      |   |         `----'          |    ||
                                      |    +------------------------+    ||
                                      |                                 //
-                                     |   Name: Ian                     |
+                                     |   Name: Ian Gastelum            |
                                      |   Location: México              |
                                      |   HP: 30y                       |
-                                     |   Kotlin: 2y                    |
-                                     |   Kotlin Multi: 1y              |
+                                     |   Kotlin + KMP: 3y              |
                                      |   Jetpack Compose 3y            |
+                                     |   Linux: 10y                    |
                                      |   HTML/CSS: 2y                  |
                                      |   JavaScript: 2y                |
-                                     |   Vite + React: 1y              |
+                                     |   Vite + React: 2y              |
                                      |                           [🌿]  |
                                      +---------------------------------+
 ```
