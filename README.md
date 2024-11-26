@@ -28,9 +28,9 @@
                                      |   Location: México              |
                                      |   HP: 30y                       |
                                      |   Kotlin: 2y                    |
-                                     |   Kotlin Multi: 2y              |
-                                     |   Jetpack Compose 2y            |
-                                     |   HTML/CSS: 5y                  |
+                                     |   Kotlin Multi: 1y              |
+                                     |   Jetpack Compose 3y            |
+                                     |   HTML/CSS: 2y                  |
                                      |   JavaScript: 2y                |
                                      |   Vite + React: 1y              |
                                      |                           [🌿]  |
