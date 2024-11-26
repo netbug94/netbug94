@@ -30,7 +30,7 @@
                                      |   Kotlin + KMP: 3y              |
                                      |   Jetpack Compose 3y            |
                                      |   Linux: 10y                    |
-                                     |   HTML/CSS: 2y                  |
+                                     |   HTML/CSS: 4y                  |
                                      |   JavaScript: 2y                |
                                      |   Vite + React: 2y              |
                                      |                           [🌿]  |
