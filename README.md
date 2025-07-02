@@ -26,7 +26,7 @@
                                      |                                 //
                                      |   Name: Ian Gastelum            |
                                      |   Location: México              |
-                                     |   HP: 30y                       |
+                                     |   HP: 31y                       |
                                      |   Kotlin + KMP: 3y              |
                                      |   Jetpack Compose 3y            |
                                      |   Linux: 10y                    |
