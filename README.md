@@ -31,8 +31,8 @@
                                      |   JPack Compose / XML: 4y       |
                                      |   Linux: 10y                    |
                                      |   HTML/CSS: 4y                  |
-                                     |   JS/TS: 3y                     |
-                                     |   Vite + React: 3y              |
+                                     |   JS/TS: 4y                     |
+                                     |   Vite + React: 4y              |
                                      |                           [🌿]  |
                                      +---------------------------------+
 ```
