@@ -26,12 +26,12 @@
                                      |                                 //
                                      |   Name: Ian Gastelum            |
                                      |   Location: México              |
-                                     |   HP: 31y                       |
-                                     |   Kotlin / KMP: 3y              |
-                                     |   JPack Compose / XML: 3y       |
+                                     |   HP: 32y                       |
+                                     |   Go: 3y                        |
+                                     |   Kotlin: 3y                    |
+                                     |   JPack Compose: 3y             |
                                      |   Linux: 10y                    |
-                                     |   HTML/CSS: 3y                  |
-                                     |   JS/TS: 3y                     |
+                                     |   HTML/CSS/TS: 3y               |
                                      |   Vite + React: 3y              |
                                      |                           [🌿]  |
                                      +---------------------------------+
